@@ -1,0 +1,2 @@
+package com.seckill.dataobject;
+
